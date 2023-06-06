@@ -1,7 +1,8 @@
 import React from "react";
+import Greetings from "./Greeting.js";
 
 const App = () => {
-  return (<h1>Hello Worldasdsadsa!</h1>);
+  return <Greetings />;
 }
 
 export default App;
